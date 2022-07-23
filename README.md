@@ -9,3 +9,9 @@ Sudoku is an extremely popular logic and combinatorial math-based puzzle that mi
 
 
 ![](https://github.com/subhasree2/AI-Sudoku-Solver/blob/master/ezgif.com-gif-maker.gif)
+
+### Technology : 
+    Python - Pygame 
+
+### Algorithm - 
+    Backtracking Algorithm
