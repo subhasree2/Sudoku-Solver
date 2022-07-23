@@ -4,3 +4,8 @@ Sudoku is an extremely popular logic and combinatorial math-based puzzle that mi
 
 ### Requirements : 
     Pygame Module (Pygame is a cross-platform set of Python modules which is used to create video games)
+
+### Working :
+
+
+![](https://github.com/subhasree2/AI-Sudoku-Solver/blob/master/ezgif.com-gif-maker.gif)
