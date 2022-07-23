@@ -13,5 +13,5 @@ Sudoku is an extremely popular logic and combinatorial math-based puzzle that mi
 ### Technology : 
     Python - Pygame 
 
-### Algorithm - 
+### Algorithm :
     Backtracking Algorithm
