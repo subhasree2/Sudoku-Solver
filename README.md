@@ -8,7 +8,8 @@ Sudoku is an extremely popular logic and combinatorial math-based puzzle that mi
     * Hard
   
 ### Feature :
-    Creates easy,average and hard sudoku boards dynamically using the random module.
+    - Creates easy,average and hard sudoku boards dynamically using the random module.
+    - Sudoku can be solved either by the user or can be done automatically using Solve button.
 
 ### Requirements : 
     Pygame Module (Pygame is a cross-platform set of Python modules which is used to create video games)
