@@ -6,9 +6,14 @@ Sudoku is an extremely popular logic and combinatorial math-based puzzle that mi
     Pygame Module (Pygame is a cross-platform set of Python modules which is used to create video games)
 
 ### Working :
-
-
-![](https://github.com/subhasree2/AI-Sudoku-Solver/blob/master/ezgif.com-gif-maker.gif)
+<br>
+<br>
+<div align="center"><img src="https://github.com/subhasree2/AI-Sudoku-Solver/blob/master/Capture.JPG" align="center" /></div>
+<br /><br>
+<div align="center"><img src="https://github.com/subhasree2/AI-Sudoku-Solver/blob/master/Capture1.JPG" align="center" /></div>
+<br /><br>
+<div align="center"><img src="https://github.com/subhasree2/AI-Sudoku-Solver/blob/master/Capture3.JPG" align="center" /></div>
+<br /><br>
 
 ### Technology : 
     Python - Pygame 
