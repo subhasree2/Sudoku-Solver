@@ -8,11 +8,11 @@ Sudoku is an extremely popular logic and combinatorial math-based puzzle that mi
 ### Working :
 <br>
 <br>
-<div align="center"><img src="https://github.com/subhasree2/AI-Sudoku-Solver/blob/master/Capture.JPG" align="center" /></div>
+<div align="center"><img src="Capture.JPG" align="center" /></div>
 <br /><br>
-<div align="center"><img src="https://github.com/subhasree2/AI-Sudoku-Solver/blob/master/Capture1.JPG" align="center" /></div>
+<div align="center"><img src="Capture1.JPG" align="center" /></div>
 <br /><br>
-<div align="center"><img src="https://github.com/subhasree2/AI-Sudoku-Solver/blob/master/Capture3.JPG" align="center" /></div>
+<div align="center"><img src="Capture3.JPG" align="center" /></div>
 <br /><br>
 
 ### Technology : 
