@@ -14,14 +14,14 @@ To play Sudoku :
     * Average
     * Hard
   
-### Feature :
-    - Creates easy,average and hard sudoku boards dynamically using the random module.
-    - Sudoku can be solved either by the user or can be done automatically.
+### Features :
+* Creates Easy , Average and Hard sudoku boards dynamically using the random module.
+* Sudoku can be solved either by the user or can be done automatically.
 
 ### Requirements : 
-    - Pygame Module (Pygame is a cross-platform set of Python modules which is used to create video games)
-    - Pygame_widgets (A helper module for common widgets that may be required in developing applications with Pygame) 
-    - Random (The random module is a built-in module to generate the pseudo-random variables)
+* Pygame Module (Pygame is a cross-platform set of Python modules which is used to create video games)
+* Pygame_widgets (A helper module for common widgets that may be required in developing applications with Pygame) 
+* Random (The random module is a built-in module to generate the pseudo-random variables)
 
 ### Working :
 <br>
