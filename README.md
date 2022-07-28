@@ -16,7 +16,7 @@ To play Sudoku :
   
 ### Feature :
     - Creates easy,average and hard sudoku boards dynamically using the random module.
-    - Sudoku can be solved either by the user or can be done automatically using Solve button.
+    - Sudoku can be solved either by the user or can be done automatically.
 
 ### Requirements : 
     - Pygame Module (Pygame is a cross-platform set of Python modules which is used to create video games)
