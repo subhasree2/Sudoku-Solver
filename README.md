@@ -27,7 +27,7 @@ To play Sudoku :
 * Creates Easy , Average and Hard sudoku boards dynamically using the random module.
 * Sudoku can be solved either by the user or can be done automatically.
 
-### Working :
+### Demo :
 <br>
 <br>
 <div align="center"><img src="Capture.JPG" align="center" /></div>
