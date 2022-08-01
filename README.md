@@ -28,14 +28,7 @@ To play Sudoku :
 * Sudoku can be solved either by the user or can be done automatically.
 
 ### Demo :
-<br>
-<br>
-<div align="center"><img src="Capture.JPG" align="center" /></div>
-<br /><br>
-<div align="center"><img src="Capture1.JPG" align="center" /></div>
-<br /><br>
-<div align="center"><img src="Capture3.JPG" align="center" /></div>
-<br /><br>
+![Alt Text](https://github.com/subhasree2/AI-Sudoku-Solver/blob/master/GIF.gif)
 
 ### Language : 
     Python 
