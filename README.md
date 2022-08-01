@@ -4,10 +4,19 @@ Sudoku is an extremely popular logic and combinatorial math-based puzzle that mi
 
 To play Sudoku : 
 -------------------------------------------------------------------------------------------
-* Get Python 3.10.4 or recent versions [refer here](https://www.python.org/downloads/)
-* Have a code editor [Visual Studio code or Pycharm or any..]
-* Paste the code
-* Start the Game 🎮
+* Install Python 3.x (recommended)
+* Install necessary packages like pygame and pygame_widgets in your system
+
+       pip install pygame
+       pip install pygame_widgets
+ 
+* Clone the repository 
+
+       git clone https://github.com/subhasree2/AI-Sudoku-Solver.git 
+* Open the ***AI-Sudoku-Solver*** directory and run the file 
+       
+       py main.py
+* Start the game!!
 
 ### Modes : 
     * Easy 
@@ -17,11 +26,6 @@ To play Sudoku :
 ### Features :
 * Creates Easy , Average and Hard sudoku boards dynamically using the random module.
 * Sudoku can be solved either by the user or can be done automatically.
-
-### Requirements : 
-* Pygame Module (Pygame is a cross-platform set of Python modules which is used to create video games)
-* Pygame_widgets (A helper module for common widgets that may be required in developing applications with Pygame) 
-* Random (The random module is a built-in module to generate the pseudo-random variables)
 
 ### Working :
 <br>
