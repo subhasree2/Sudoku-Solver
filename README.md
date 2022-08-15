@@ -12,7 +12,7 @@ To play Sudoku :
  
 * Clone the repository 
 
-       git clone https://github.com/subhasree2/AI-Sudoku-Solver.git 
+       git clone https://github.com/subhasree2/Sudoku-Solver.git 
 * Open the ***Sudoku-Solver*** directory and run the file 
        
        py main.py
